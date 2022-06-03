@@ -10,36 +10,25 @@ Preguntas:
 
 1. ¿Qué significa CSS? (valor 0.25)
 
-          a) Cascading Style Sheets
-          b) Computer Style Sheets
-          c) Creative Style Sheets
-          d) Colorful Style Sheets
+          a) Cascading Style Sheet
           
 2. ¿Cuál es el HTML correcto para hacer referencia a una hoja de estilo externa?
 (valor 0.25)
 
-          a) <style src="mystyle.css">
           b) <link rel="stylesheet" type="text/css" href="style.css">
-          c) <stylesheet>mystyle.css</stylesheet>
           
 3. ¿En qué parte de un documento HTML es el lugar correcto para hacer referencia a
 una hoja de estilo externa? (valor 0.25)
 
           a) En la sección <head>
-          b) En la sección <body>
-          c) Al final del documento
           
  4. ¿Qué etiqueta HTML se utiliza para definir una hoja de estilo interna? (valor 0.25)
  
-          a) <css>
-          b) <script>
           c) <style>
           
  5. ¿Qué atributo HTML se usa para definir estilos en línea? (valor 0.25)
 
-          a) font
           b) styles
-          c) class
           
  6. ¿Cuál es la sintaxis CSS correcta? (valor 0.25)
 
