@@ -150,7 +150,6 @@ https://escuelasdecodigo.cdmx.gob.mx/wp-content/themes/escuelasdecodigo/dist/ass
 
           INGRESA AQUI EL CÓDIGO HTML
           
-          file:///C:/Users/PILARES/Documents/Andrea/evaluaci%C3%B3n/index.html
           
           
           INGRESA AQUI EL CSS
@@ -158,3 +157,5 @@ https://escuelasdecodigo.cdmx.gob.mx/wp-content/themes/escuelasdecodigo/dist/ass
           
           
  Ingresa el link a tu página del proyecto final
+ 
+ file:///C:/Users/PILARES/Documents/Andrea/evaluaci%C3%B3n/index.html
